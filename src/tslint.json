@@ -12,6 +12,12 @@
             "element",
             "app",
             "kebab-case"
+        ],
+
+        "comment-format": [
+          true,
+          "no-check-space",
+          "check-uppercase"
         ]
     }
 }
